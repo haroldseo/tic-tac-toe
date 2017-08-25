@@ -1,0 +1,16 @@
+div {
+    border: 3px solid black;
+    width: 50px;
+}
+
+.column1 {
+    display: inline-block;
+}
+
+.column2 {
+    display: inline-block;
+}
+
+.column3 {
+    display: inline-block;
+}
